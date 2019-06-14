@@ -1,0 +1,1541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79196ee6-7455-46a4-9259-663da7a5d1f7" name="Default" comment="" />
+    <ignored path="ol.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ol" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Agricultural-Value-Chains.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Economics/Agricultural-Value-Chains.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.41308412" vertical-offset="0" max-vertical-offset="2856">
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <marker date="1539559008278" expanded="true" signature="630:847" placeholder="SELECT * FRO..materials..." />
+                <marker date="1539559008278" expanded="true" signature="1082:1336" placeholder="SELECT * fro..materials..." />
+                <marker date="1539559008278" expanded="true" signature="1585:1627" placeholder="SELECT * FRO..pub_media..." />
+                <marker date="1539559008278" expanded="true" signature="2110:2185" placeholder="..." />
+                <marker date="1539559008278" expanded="true" signature="2455:2501" placeholder="..." />
+                <marker date="1539559008278" expanded="true" signature="2678:2695" placeholder="..." />
+                <marker date="1539559008278" expanded="true" signature="2798:2815" placeholder="..." />
+                <marker date="1539559008278" expanded="true" signature="3052:3120" placeholder="..." />
+                <marker date="1539559008278" expanded="true" signature="3106:3118" placeholder="..." />
+                <marker date="1539559008278" expanded="true" signature="3167:3224" placeholder="SELECT * FRO..pub_media..." />
+                <marker date="1539559008278" expanded="true" signature="3425:3608" placeholder="..." />
+                <marker date="1539559008278" expanded="true" signature="3493:3505" placeholder="..." />
+                <marker date="1539559008278" expanded="true" signature="5280:5336" placeholder="..." />
+                <marker date="1539559008278" expanded="true" signature="5443:5481" placeholder="..." />
+                <marker date="1539559008278" expanded="true" signature="5776:5864" placeholder="INSERT INTO ..." />
+                <marker date="1539559008278" expanded="true" signature="6479:6651" placeholder="..." />
+                <marker date="1539559008278" expanded="true" signature="7042:7222" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Irrigation-Agronomy.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Engineering-and-Irrigation-Extension/Irrigation-Agronomy.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="2856">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="241" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <marker date="1539556487363" expanded="true" signature="618:798" placeholder="SELECT * FRO..materials..." />
+                <marker date="1539556487363" expanded="true" signature="1033:1248" placeholder="SELECT * fro..materials..." />
+                <marker date="1539556487363" expanded="true" signature="1497:1539" placeholder="SELECT * FRO..pub_media..." />
+                <marker date="1539556487363" expanded="true" signature="2022:2097" placeholder="..." />
+                <marker date="1539556487363" expanded="true" signature="2367:2413" placeholder="..." />
+                <marker date="1539556487363" expanded="true" signature="2590:2607" placeholder="..." />
+                <marker date="1539556487363" expanded="true" signature="2710:2727" placeholder="..." />
+                <marker date="1539556487363" expanded="true" signature="2964:3032" placeholder="..." />
+                <marker date="1539556487363" expanded="true" signature="3018:3030" placeholder="..." />
+                <marker date="1539556487363" expanded="true" signature="3079:3136" placeholder="SELECT * FRO..pub_media..." />
+                <marker date="1539556487363" expanded="true" signature="3337:3520" placeholder="..." />
+                <marker date="1539556487363" expanded="true" signature="3405:3417" placeholder="..." />
+                <marker date="1539556487363" expanded="true" signature="5192:5248" placeholder="..." />
+                <marker date="1539556487363" expanded="true" signature="5355:5393" placeholder="..." />
+                <marker date="1539556487363" expanded="true" signature="5688:5776" placeholder="INSERT INTO ..." />
+                <marker date="1539556487363" expanded="true" signature="6391:6563" placeholder="..." />
+                <marker date="1539556487363" expanded="true" signature="6954:7134" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Farm-Power-and-Machinery.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Engineering-and-Irrigation-Extension/Farm-Power-and-Machinery.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.423077" vertical-offset="2275" max-vertical-offset="2856">
+              <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+              <folding>
+                <marker date="1539556042974" expanded="true" signature="623:808" placeholder="SELECT * FRO..materials..." />
+                <marker date="1539556042974" expanded="true" signature="623:815" placeholder="SELECT * FRO..materials..." />
+                <marker date="1539556042974" expanded="true" signature="1043:1263" placeholder="SELECT * fro..materials..." />
+                <marker date="1539556042974" expanded="true" signature="1043:1272" placeholder="SELECT * fro..materials..." />
+                <marker date="1539556042974" expanded="true" signature="1043:1274" placeholder="SELECT * fro..materials..." />
+                <marker date="1539556042974" expanded="true" signature="1512:1554" placeholder="SELECT * FRO..pub_media..." />
+                <marker date="1539556042974" expanded="true" signature="2037:2112" placeholder="..." />
+                <marker date="1539556042974" expanded="false" signature="2382:2428" placeholder="..." />
+                <marker date="1539556042974" expanded="false" signature="2605:2622" placeholder="..." />
+                <marker date="1539556042974" expanded="false" signature="2725:2742" placeholder="..." />
+                <marker date="1539556042974" expanded="true" signature="2979:3047" placeholder="..." />
+                <marker date="1539556042974" expanded="false" signature="3033:3045" placeholder="..." />
+                <marker date="1539556042974" expanded="true" signature="3094:3151" placeholder="SELECT * FRO..pub_media..." />
+                <marker date="1539556042974" expanded="true" signature="3352:3535" placeholder="..." />
+                <marker date="1539556042974" expanded="false" signature="3420:3432" placeholder="..." />
+                <marker date="1539556042974" expanded="false" signature="5207:5263" placeholder="..." />
+                <marker date="1539556042974" expanded="false" signature="5370:5408" placeholder="..." />
+                <marker date="1539556042974" expanded="true" signature="5703:5791" placeholder="INSERT INTO ..." />
+                <marker date="1539556042974" expanded="true" signature="6406:6578" placeholder="..." />
+                <marker date="1539556042974" expanded="true" signature="6969:7149" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Agribusiness-Management.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Economics/Agribusiness-Management.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.153846" vertical-offset="68" max-vertical-offset="2856">
+              <caret line="18" column="153" selection-start-line="0" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+              <folding>
+                <marker date="1539557456862" expanded="true" signature="628:839" placeholder="SELECT * FRO..materials..." />
+                <marker date="1539557456862" expanded="true" signature="1074:1322" placeholder="SELECT * fro..materials..." />
+                <marker date="1539557456862" expanded="true" signature="1571:1613" placeholder="SELECT * FRO..pub_media..." />
+                <marker date="1539557456862" expanded="true" signature="2096:2171" placeholder="..." />
+                <marker date="1539557456862" expanded="false" signature="2441:2487" placeholder="..." />
+                <marker date="1539557456862" expanded="false" signature="2664:2681" placeholder="..." />
+                <marker date="1539557456862" expanded="false" signature="2784:2801" placeholder="..." />
+                <marker date="1539557456862" expanded="true" signature="3038:3106" placeholder="..." />
+                <marker date="1539557456862" expanded="false" signature="3092:3104" placeholder="..." />
+                <marker date="1539557456862" expanded="true" signature="3153:3210" placeholder="SELECT * FRO..pub_media..." />
+                <marker date="1539557456862" expanded="true" signature="3411:3594" placeholder="..." />
+                <marker date="1539557456862" expanded="false" signature="3479:3491" placeholder="..." />
+                <marker date="1539557456862" expanded="false" signature="5266:5322" placeholder="..." />
+                <marker date="1539557456862" expanded="false" signature="5429:5467" placeholder="..." />
+                <marker date="1539557456862" expanded="true" signature="5762:5850" placeholder="INSERT INTO ..." />
+                <marker date="1539557456862" expanded="true" signature="6465:6637" placeholder="..." />
+                <marker date="1539557456862" expanded="true" signature="7028:7208" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Agricultural-Finance.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Economics/Agricultural-Finance.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="2856">
+              <caret line="25" column="247" selection-start-line="25" selection-start-column="247" selection-end-line="25" selection-end-column="247" />
+              <folding>
+                <marker date="1539559008299" expanded="true" signature="625:815" placeholder="SELECT * FRO..materials..." />
+                <marker date="1539559008299" expanded="true" signature="625:837" placeholder="SELECT * FRO..materials..." />
+                <marker date="1539559008299" expanded="true" signature="1072:1264" placeholder="SELECT * fro..materials..." />
+                <marker date="1539559008299" expanded="true" signature="1072:1321" placeholder="SELECT * fro..materials..." />
+                <marker date="1539559008299" expanded="true" signature="1570:1612" placeholder="SELECT * FRO..pub_media..." />
+                <marker date="1539559008299" expanded="true" signature="2095:2170" placeholder="..." />
+                <marker date="1539559008299" expanded="false" signature="2440:2486" placeholder="..." />
+                <marker date="1539559008299" expanded="false" signature="2663:2680" placeholder="..." />
+                <marker date="1539559008299" expanded="false" signature="2783:2800" placeholder="..." />
+                <marker date="1539559008299" expanded="true" signature="3037:3105" placeholder="..." />
+                <marker date="1539559008299" expanded="false" signature="3091:3103" placeholder="..." />
+                <marker date="1539559008299" expanded="true" signature="3152:3209" placeholder="SELECT * FRO..pub_media..." />
+                <marker date="1539559008299" expanded="true" signature="3410:3593" placeholder="..." />
+                <marker date="1539559008299" expanded="false" signature="3478:3490" placeholder="..." />
+                <marker date="1539559008299" expanded="false" signature="5265:5321" placeholder="..." />
+                <marker date="1539559008299" expanded="false" signature="5428:5466" placeholder="..." />
+                <marker date="1539559008299" expanded="true" signature="5761:5849" placeholder="INSERT INTO ..." />
+                <marker date="1539559008299" expanded="true" signature="6464:6636" placeholder="..." />
+                <marker date="1539559008299" expanded="true" signature="7027:7207" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Agricultural-Marketing.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Economics/Agricultural-Marketing.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="2856">
+              <caret line="25" column="249" selection-start-line="25" selection-start-column="249" selection-end-line="25" selection-end-column="249" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <marker date="1539559008256" expanded="true" signature="627:841" placeholder="SELECT * FRO..materials..." />
+                <marker date="1539559008256" expanded="true" signature="1076:1327" placeholder="SELECT * fro..materials..." />
+                <marker date="1539559008256" expanded="true" signature="1576:1618" placeholder="SELECT * FRO..pub_media..." />
+                <marker date="1539559008256" expanded="true" signature="2101:2176" placeholder="..." />
+                <marker date="1539559008256" expanded="true" signature="2446:2492" placeholder="..." />
+                <marker date="1539559008256" expanded="true" signature="2669:2686" placeholder="..." />
+                <marker date="1539559008256" expanded="true" signature="2789:2806" placeholder="..." />
+                <marker date="1539559008256" expanded="true" signature="3043:3111" placeholder="..." />
+                <marker date="1539559008256" expanded="true" signature="3097:3109" placeholder="..." />
+                <marker date="1539559008256" expanded="true" signature="3158:3215" placeholder="SELECT * FRO..pub_media..." />
+                <marker date="1539559008256" expanded="true" signature="3416:3599" placeholder="..." />
+                <marker date="1539559008256" expanded="true" signature="3484:3496" placeholder="..." />
+                <marker date="1539559008256" expanded="true" signature="5271:5327" placeholder="..." />
+                <marker date="1539559008256" expanded="true" signature="5434:5472" placeholder="..." />
+                <marker date="1539559008256" expanded="true" signature="5767:5855" placeholder="INSERT INTO ..." />
+                <marker date="1539559008256" expanded="true" signature="6470:6642" placeholder="..." />
+                <marker date="1539559008256" expanded="true" signature="7033:7213" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Agricultural-Policy.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Economics/Agricultural-Policy.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="2856">
+              <caret line="25" column="246" selection-start-line="0" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+              <folding>
+                <marker date="1539559008223" expanded="true" signature="624:814" placeholder="SELECT * FRO..materials..." />
+                <marker date="1539559008223" expanded="true" signature="624:835" placeholder="SELECT * FRO..materials..." />
+                <marker date="1539559008223" expanded="true" signature="1070:1262" placeholder="SELECT * fro..materials..." />
+                <marker date="1539559008223" expanded="true" signature="1070:1318" placeholder="SELECT * fro..materials..." />
+                <marker date="1539559008223" expanded="true" signature="1567:1609" placeholder="SELECT * FRO..pub_media..." />
+                <marker date="1539559008223" expanded="true" signature="2092:2167" placeholder="..." />
+                <marker date="1539559008223" expanded="false" signature="2437:2483" placeholder="..." />
+                <marker date="1539559008223" expanded="false" signature="2660:2677" placeholder="..." />
+                <marker date="1539559008223" expanded="false" signature="2780:2797" placeholder="..." />
+                <marker date="1539559008223" expanded="true" signature="3034:3102" placeholder="..." />
+                <marker date="1539559008223" expanded="false" signature="3088:3100" placeholder="..." />
+                <marker date="1539559008223" expanded="true" signature="3149:3206" placeholder="SELECT * FRO..pub_media..." />
+                <marker date="1539559008223" expanded="true" signature="3407:3590" placeholder="..." />
+                <marker date="1539559008223" expanded="false" signature="3475:3487" placeholder="..." />
+                <marker date="1539559008223" expanded="false" signature="5262:5318" placeholder="..." />
+                <marker date="1539559008223" expanded="false" signature="5425:5463" placeholder="..." />
+                <marker date="1539559008223" expanded="true" signature="5758:5846" placeholder="INSERT INTO ..." />
+                <marker date="1539559008223" expanded="true" signature="6461:6633" placeholder="..." />
+                <marker date="1539559008223" expanded="true" signature="7024:7204" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Agricultural-Production-Economics.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Economics/Agricultural-Production-Economics.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="2856">
+              <caret line="15" column="136" selection-start-line="0" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+              <folding>
+                <marker date="1539559008324" expanded="true" signature="637:827" placeholder="SELECT * FRO..materials..." />
+                <marker date="1539559008324" expanded="true" signature="637:862" placeholder="SELECT * FRO..materials..." />
+                <marker date="1539559008324" expanded="true" signature="1097:1301" placeholder="SELECT * fro..materials..." />
+                <marker date="1539559008324" expanded="true" signature="1097:1359" placeholder="SELECT * fro..materials..." />
+                <marker date="1539559008324" expanded="true" signature="1608:1650" placeholder="SELECT * FRO..pub_media..." />
+                <marker date="1539559008324" expanded="true" signature="2133:2208" placeholder="..." />
+                <marker date="1539559008324" expanded="false" signature="2478:2524" placeholder="..." />
+                <marker date="1539559008324" expanded="false" signature="2701:2718" placeholder="..." />
+                <marker date="1539559008324" expanded="false" signature="2821:2838" placeholder="..." />
+                <marker date="1539559008324" expanded="true" signature="3075:3143" placeholder="..." />
+                <marker date="1539559008324" expanded="false" signature="3129:3141" placeholder="..." />
+                <marker date="1539559008324" expanded="true" signature="3190:3247" placeholder="SELECT * FRO..pub_media..." />
+                <marker date="1539559008324" expanded="true" signature="3448:3631" placeholder="..." />
+                <marker date="1539559008324" expanded="false" signature="3516:3528" placeholder="..." />
+                <marker date="1539559008324" expanded="false" signature="5303:5359" placeholder="..." />
+                <marker date="1539559008324" expanded="false" signature="5466:5504" placeholder="..." />
+                <marker date="1539559008324" expanded="true" signature="5799:5887" placeholder="INSERT INTO ..." />
+                <marker date="1539559008324" expanded="true" signature="6502:6674" placeholder="..." />
+                <marker date="1539559008324" expanded="true" signature="7065:7245" placeholder="..." />
+                <marker date="1539559008324" expanded="true" signature="637:862" placeholder="SELECT * FRO..materials..." />
+                <marker date="1539559008324" expanded="true" signature="1097:1359" placeholder="SELECT * fro..materials..." />
+                <marker date="1539559008324" expanded="true" signature="1608:1650" placeholder="SELECT * FRO..pub_media..." />
+                <marker date="1539559008324" expanded="true" signature="3190:3247" placeholder="SELECT * FRO..pub_media..." />
+                <marker date="1539559008324" expanded="true" signature="5799:5887" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Agricultural-Projects-Analysis.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Economics/Agricultural-Projects-Analysis.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="2856">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+              <folding>
+                <marker date="1539559008203" expanded="true" signature="634:824" placeholder="SELECT * FRO..materials..." />
+                <marker date="1539559008203" expanded="true" signature="634:856" placeholder="SELECT * FRO..materials..." />
+                <marker date="1539559008203" expanded="true" signature="1091:1295" placeholder="SELECT * fro..materials..." />
+                <marker date="1539559008203" expanded="true" signature="1091:1350" placeholder="SELECT * fro..materials..." />
+                <marker date="1539559008203" expanded="true" signature="1599:1641" placeholder="SELECT * FRO..pub_media..." />
+                <marker date="1539559008203" expanded="true" signature="2124:2199" placeholder="..." />
+                <marker date="1539559008203" expanded="false" signature="2469:2515" placeholder="..." />
+                <marker date="1539559008203" expanded="false" signature="2692:2709" placeholder="..." />
+                <marker date="1539559008203" expanded="false" signature="2812:2829" placeholder="..." />
+                <marker date="1539559008203" expanded="true" signature="3066:3134" placeholder="..." />
+                <marker date="1539559008203" expanded="false" signature="3120:3132" placeholder="..." />
+                <marker date="1539559008203" expanded="true" signature="3181:3238" placeholder="SELECT * FRO..pub_media..." />
+                <marker date="1539559008203" expanded="true" signature="3439:3622" placeholder="..." />
+                <marker date="1539559008203" expanded="false" signature="3507:3519" placeholder="..." />
+                <marker date="1539559008203" expanded="false" signature="5294:5350" placeholder="..." />
+                <marker date="1539559008203" expanded="false" signature="5457:5495" placeholder="..." />
+                <marker date="1539559008203" expanded="true" signature="5790:5878" placeholder="INSERT INTO ..." />
+                <marker date="1539559008203" expanded="true" signature="6493:6665" placeholder="..." />
+                <marker date="1539559008203" expanded="true" signature="7056:7236" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/includes/lsidebar.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Extension/Extension,-Gender-and-Youth.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Extension/Extension-and-Rural-Social-Systems.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Extension/Extension-Communication.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Extension/Extension-Methodology.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Extension/Extension-Philosophy.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Extension/Extension-Programme-Monitoring-and-Evaluation.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Extension/Extension-Programme-Planning-and-Administration.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Extension/Extension-Systems-and-Approaches.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Extension/ICTs-in-Extension.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Extension/index.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Extension/Market-Driven-Extenson.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Economics/index.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Reports/Agric.-Performance-Survey/National-Report.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Reports/Agric.-Performance-Survey/State-Report.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Reports/Annual.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Reports/index.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Reports/Quarterly.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Reports/Research.php" />
+        <option value="$PROJECT_DIR$/register.php" />
+        <option value="$PROJECT_DIR$/admin/index.php" />
+        <option value="$PROJECT_DIR$/admin/editor.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Engineering-and-Irrigation-Extension/Farm-Power-and-Machinery.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Engineering-and-Irrigation-Extension/Environmental-Science.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Engineering-and-Irrigation-Extension/Irrigation-Agronomy.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Engineering-and-Irrigation-Extension/Post-Harvest-Processing-and-Storage.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Engineering-and-Irrigation-Extension/Soil-and-Water-Irrigation.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Economics/Agribusiness-Management.php" />
+        <option value="$PROJECT_DIR$/admin/publication_editor.php" />
+        <option value="$PROJECT_DIR$/admin/edit.php" />
+        <option value="$PROJECT_DIR$/admin/sub_subj.php" />
+        <option value="$PROJECT_DIR$/admin/sub_sub_subj.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Economics/Agricultural-Finance.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Economics/Agricultural-Marketing.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Economics/Agricultural-Policy.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Economics/Agricultural-Production-Economics.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Economics/Agricultural-Projects-Analysis.php" />
+        <option value="$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Economics/Agricultural-Value-Chains.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1378" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NAERLS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NAERLS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="publications" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NAERLS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="publications" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="subjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NAERLS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="publications" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="subjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agric.-Extension-and-Economics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NAERLS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="publications" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="subjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agric.-Extension-and-Economics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Agricultural-Economics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NAERLS - Copy" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\NAERLS\admin" />
+      <recent name="C:\wamp64\www\NAERLS\publications\subjects" />
+      <recent name="C:\wamp64\www\NAERLS\includes" />
+      <recent name="C:\wamp64\www\NAERLS\dist\js" />
+      <recent name="C:\wamp64\www\NAERLS\dist\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\NAERLS\publications\subjects\Crop-and-Forestry-Extension" />
+      <recent name="C:\wamp64\www\NAERLS\publications\subjects\Livestock-and-Fisheries-Extension" />
+      <recent name="C:\wamp64\www\NAERLS\admin" />
+      <recent name="C:\wamp64\www\NAERLS\dist\js" />
+      <recent name="C:\wamp64\www\NAERLS\dist" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-env-vars>false</pass-parent-env-vars>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79196ee6-7455-46a4-9259-663da7a5d1f7" name="Default" comment="" />
+      <created>1484681840172</created>
+      <option name="number" value="Default" />
+      <updated>1484681840172</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1378" height="780" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22685888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962063" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22685888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pledge_donation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="129" column="54" selection-start-line="129" selection-start-column="54" selection-end-line="129" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="4558" column="17" selection-start-line="4558" selection-start-column="17" selection-end-line="4558" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/manageusers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="67" column="50" selection-start-line="67" selection-start-column="50" selection-end-line="67" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/downloads.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="97" column="154" selection-start-line="97" selection-start-column="154" selection-end-line="97" selection-end-column="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="108" column="32" selection-start-line="108" selection-start-column="32" selection-end-line="108" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.94276094" vertical-offset="0" max-vertical-offset="0">
+          <caret line="84" column="9" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/seminar-papers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1186" max-vertical-offset="2057">
+          <caret line="102" column="26" selection-start-line="102" selection-start-column="26" selection-end-line="102" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/category/reports.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1088" max-vertical-offset="1938">
+          <caret line="91" column="21" selection-start-line="91" selection-start-column="21" selection-end-line="91" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Extension/Extension,-Gender-and-Youth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.26923" vertical-offset="2253" max-vertical-offset="2856">
+          <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Extension/Extension-and-Rural-Social-Systems.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.26923" vertical-offset="2253" max-vertical-offset="2856">
+          <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Extension/Extension-Communication.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.26923" vertical-offset="2253" max-vertical-offset="2856">
+          <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Extension/Extension-Methodology.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.26923" vertical-offset="2253" max-vertical-offset="2856">
+          <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Extension/Extension-Philosophy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.26923" vertical-offset="2253" max-vertical-offset="2856">
+          <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Extension/Extension-Programme-Monitoring-and-Evaluation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.26923" vertical-offset="2253" max-vertical-offset="2856">
+          <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Extension/Extension-Programme-Planning-and-Administration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.538462" vertical-offset="2298" max-vertical-offset="2856">
+          <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Extension/Extension-Systems-and-Approaches.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.384615" vertical-offset="2276" max-vertical-offset="2856">
+          <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Extension/ICTs-in-Extension.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.26923" vertical-offset="2253" max-vertical-offset="2856">
+          <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Extension/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.384615" vertical-offset="2276" max-vertical-offset="2856">
+          <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Extension/Market-Driven-Extenson.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.384615" vertical-offset="2276" max-vertical-offset="2856">
+          <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Economics/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2253" max-vertical-offset="2856">
+          <caret line="149" column="6" selection-start-line="149" selection-start-column="6" selection-end-line="149" selection-end-column="6" />
+          <folding>
+            <marker date="1539470806874" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539470806874" expanded="true" signature="-1:-1" placeholder="SELECT * fro..materials..." />
+            <marker date="1539470806874" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539470806874" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806874" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806874" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806874" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806874" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806874" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806874" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539470806874" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806874" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806874" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806874" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806874" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1539470806874" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806874" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Reports/Agric.-Performance-Survey/National-Report.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2253" max-vertical-offset="2856">
+          <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding>
+            <marker date="1539470806667" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539470806667" expanded="true" signature="-1:-1" placeholder="SELECT * fro..materials..." />
+            <marker date="1539470806667" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539470806667" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806667" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806667" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806667" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806667" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806667" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806667" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539470806667" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806667" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806667" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806667" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806667" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1539470806667" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806667" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Reports/Agric.-Performance-Survey/State-Report.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2253" max-vertical-offset="2856">
+          <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding>
+            <marker date="1539470806446" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539470806446" expanded="true" signature="-1:-1" placeholder="SELECT * fro..materials..." />
+            <marker date="1539470806446" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539470806446" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806446" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806446" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806446" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806446" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806446" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806446" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539470806446" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806446" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806446" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806446" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806446" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1539470806446" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806446" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Reports/Research.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39534885" vertical-offset="85" max-vertical-offset="2856">
+          <caret line="18" column="251" selection-start-line="18" selection-start-column="251" selection-end-line="18" selection-end-column="251" />
+          <folding>
+            <marker date="1539470807065" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539470807065" expanded="true" signature="-1:-1" placeholder="SELECT * fro..materials..." />
+            <marker date="1539470807065" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539470807065" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470807065" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470807065" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470807065" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470807065" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470807065" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470807065" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539470807065" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470807065" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470807065" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470807065" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470807065" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1539470807065" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470807065" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Reports/Quarterly.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="2856">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding>
+            <marker date="1539470806515" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539470806515" expanded="true" signature="-1:-1" placeholder="SELECT * fro..materials..." />
+            <marker date="1539470806515" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539470806515" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806515" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806515" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806515" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806515" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806515" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806515" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539470806515" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806515" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806515" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806515" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806515" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1539470806515" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806515" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Reports/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61340207" vertical-offset="1683" max-vertical-offset="2856">
+          <caret line="120" column="26" selection-start-line="120" selection-start-column="26" selection-end-line="120" selection-end-column="26" />
+          <folding>
+            <marker date="1539470806716" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539470806716" expanded="true" signature="-1:-1" placeholder="SELECT * fro..materials..." />
+            <marker date="1539470806716" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539470806716" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806716" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806716" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806716" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806716" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806716" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806716" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539470806716" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806716" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806716" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806716" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806716" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1539470806716" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806716" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/publications.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.87628865" vertical-offset="0" max-vertical-offset="3383">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <marker date="1486887552834" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1486887552834" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1486887552834" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..categories..." />
+            <marker date="1486887552834" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..materials..." />
+            <marker date="1486887552834" expanded="true" signature="-1:-1" placeholder="SELECT * fro..materials..." />
+            <marker date="1486887552834" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1486887552834" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1486887552834" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1486887552834" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1486887552834" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1486887552834" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1486887552834" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1486887552834" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1486887552834" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1486887552834" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1486887552834" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1486887552834" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1486887552834" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/lsidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.9230769" vertical-offset="697" max-vertical-offset="1530">
+          <caret line="47" column="61" selection-start-line="46" selection-start-column="23" selection-end-line="47" selection-end-column="61" />
+          <folding>
+            <marker date="1539470287743" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..subjects..." />
+            <marker date="1539470287743" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..sub_subjects..." />
+            <marker date="1539470287743" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470287743" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..sub_sub_subjects..." />
+            <marker date="1539470287743" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470287743" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470287743" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470287743" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470287743" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7777777" vertical-offset="1975" max-vertical-offset="4539">
+          <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+          <folding>
+            <marker date="1539540153439" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539540153439" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tblcountries..." />
+            <marker date="1539540153439" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tblstate..." />
+            <marker date="1539540153439" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..users..." />
+            <marker date="1539540153439" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/local_govt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="408">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+          <folding>
+            <marker date="1481869183303" expanded="true" signature="-1:-1" placeholder="select * fro..tbllga..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.9230769" vertical-offset="4114" max-vertical-offset="5610">
+          <caret line="248" column="132" selection-start-line="248" selection-start-column="98" selection-end-line="248" selection-end-column="132" />
+          <folding>
+            <element signature="e#2080#2102#0#HTML" expanded="true" />
+            <element signature="e#3106#3131#0#HTML" expanded="true" />
+            <element signature="e#3152#3217#0#HTML" expanded="true" />
+            <element signature="e#3308#3381#0#HTML" expanded="true" />
+            <element signature="e#3404#3422#0#HTML" expanded="true" />
+            <element signature="e#3505#3523#0#HTML" expanded="true" />
+            <element signature="e#3548#3566#0#HTML" expanded="true" />
+            <element signature="e#3819#3837#0#HTML" expanded="true" />
+            <element signature="e#4371#4389#0#HTML" expanded="true" />
+            <marker date="1539553159076" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539553159076" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..categories..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..subjects..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..sub_subjects..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..subjects..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1539553159076" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/editor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="1904">
+          <caret line="19" column="101" selection-start-line="19" selection-start-column="101" selection-end-line="19" selection-end-column="101" />
+          <folding>
+            <marker date="1539553691134" expanded="true" signature="-1:-1" placeholder="UPDATE mater..." />
+            <marker date="1539553691134" expanded="true" signature="-1:-1" placeholder="SELECT from ..pub_media..." />
+            <marker date="1539553691134" expanded="true" signature="-1:-1" placeholder="update pub_m..." />
+            <marker date="1539553691134" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539553691134" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1539553691134" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539553691134" expanded="true" signature="-1:-1" placeholder="update pub_m..." />
+            <marker date="1539553691134" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539553691134" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539553691134" expanded="true" signature="-1:-1" placeholder="SELECT * fro..pub_media..." />
+            <marker date="1539553691134" expanded="true" signature="-1:-1" placeholder="update pub_m..." />
+            <marker date="1539553691134" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539553691134" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1539553691134" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539553691134" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539553691134" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539553691134" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Reports/Annual.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.653846" vertical-offset="206" max-vertical-offset="2856">
+          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+          <folding>
+            <marker date="1539470806542" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539470806542" expanded="true" signature="-1:-1" placeholder="SELECT * fro..materials..." />
+            <marker date="1539470806542" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539470806542" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806542" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806542" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806542" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806542" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806542" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806542" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539470806542" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806542" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806542" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806542" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806542" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1539470806542" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539470806542" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Engineering-and-Irrigation-Extension/Environmental-Science.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="2856">
+          <caret line="25" column="216" selection-start-line="25" selection-start-column="216" selection-end-line="25" selection-end-column="216" />
+          <folding>
+            <marker date="1539556368540" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539556368540" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539556368540" expanded="true" signature="-1:-1" placeholder="SELECT * fro..materials..." />
+            <marker date="1539556368540" expanded="true" signature="-1:-1" placeholder="SELECT * fro..materials..." />
+            <marker date="1539556368540" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539556368540" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539556368540" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539556368540" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539556368540" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539556368540" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539556368540" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539556368540" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539556368540" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539556368540" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539556368540" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539556368540" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539556368540" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1539556368540" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539556368540" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Engineering-and-Irrigation-Extension/Post-Harvest-Processing-and-Storage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="2856">
+          <caret line="25" column="230" selection-start-line="25" selection-start-column="230" selection-end-line="25" selection-end-column="230" />
+          <folding>
+            <marker date="1539556564587" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539556564587" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539556564587" expanded="true" signature="-1:-1" placeholder="SELECT * fro..materials..." />
+            <marker date="1539556564587" expanded="true" signature="-1:-1" placeholder="SELECT * fro..materials..." />
+            <marker date="1539556564587" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539556564587" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539556564587" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539556564587" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539556564587" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539556564587" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539556564587" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539556564587" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539556564587" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539556564587" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539556564587" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539556564587" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539556564587" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1539556564587" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539556564587" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Engineering-and-Irrigation-Extension/Soil-and-Water-Irrigation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9390681" vertical-offset="258" max-vertical-offset="2856">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <marker date="1539556982597" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539556982597" expanded="true" signature="-1:-1" placeholder="SELECT * fro..materials..." />
+            <marker date="1539556982597" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539556982597" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539556982597" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539556982597" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539556982597" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539556982597" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539556982597" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539556982597" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539556982597" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539556982597" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539556982597" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539556982597" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539556982597" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1539556982597" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539556982597" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Engineering-and-Irrigation-Extension/Irrigation-Agronomy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="2856">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="241" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <marker date="1539556487363" expanded="true" signature="618:798" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539556487363" expanded="true" signature="1033:1248" placeholder="SELECT * fro..materials..." />
+            <marker date="1539556487363" expanded="true" signature="1497:1539" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539556487363" expanded="true" signature="2022:2097" placeholder="..." />
+            <marker date="1539556487363" expanded="true" signature="2367:2413" placeholder="..." />
+            <marker date="1539556487363" expanded="true" signature="2590:2607" placeholder="..." />
+            <marker date="1539556487363" expanded="true" signature="2710:2727" placeholder="..." />
+            <marker date="1539556487363" expanded="true" signature="2964:3032" placeholder="..." />
+            <marker date="1539556487363" expanded="true" signature="3018:3030" placeholder="..." />
+            <marker date="1539556487363" expanded="true" signature="3079:3136" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539556487363" expanded="true" signature="3337:3520" placeholder="..." />
+            <marker date="1539556487363" expanded="true" signature="3405:3417" placeholder="..." />
+            <marker date="1539556487363" expanded="true" signature="5192:5248" placeholder="..." />
+            <marker date="1539556487363" expanded="true" signature="5355:5393" placeholder="..." />
+            <marker date="1539556487363" expanded="true" signature="5688:5776" placeholder="INSERT INTO ..." />
+            <marker date="1539556487363" expanded="true" signature="6391:6563" placeholder="..." />
+            <marker date="1539556487363" expanded="true" signature="6954:7134" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/publication_editor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308" vertical-offset="119" max-vertical-offset="1921">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding>
+            <marker date="1539557632628" expanded="true" signature="-1:-1" placeholder="UPDATE mater..." />
+            <marker date="1539557632628" expanded="true" signature="-1:-1" placeholder="SELECT from ..pub_media..." />
+            <marker date="1539557632628" expanded="true" signature="-1:-1" placeholder="update pub_m..." />
+            <marker date="1539557632628" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539557632628" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1539557632628" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539557632628" expanded="true" signature="-1:-1" placeholder="update pub_m..." />
+            <marker date="1539557632628" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539557632628" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539557632628" expanded="true" signature="-1:-1" placeholder="SELECT * fro..pub_media..." />
+            <marker date="1539557632628" expanded="true" signature="-1:-1" placeholder="update pub_m..." />
+            <marker date="1539557632628" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539557632628" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1539557632628" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539557632628" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539557632628" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539557632628" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/sub_sub_subj.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4006734" vertical-offset="0" max-vertical-offset="594">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <marker date="1539558460565" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..sub_sub_subjects..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/sub_subj.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4006734" vertical-offset="0" max-vertical-offset="594">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <marker date="1539558460545" expanded="true" signature="-1:-1" placeholder="select * fro..sub_subjects..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9414802" vertical-offset="1544" max-vertical-offset="2839">
+          <caret line="123" column="0" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+          <folding>
+            <marker date="1539558065682" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539558065682" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539558065682" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539558065682" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1539558065682" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..categories..." />
+            <marker date="1539558065682" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..subjects..." />
+            <marker date="1539558065682" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..subjects..." />
+            <marker date="1539558065682" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539558065682" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539558065682" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1539558065682" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Engineering-and-Irrigation-Extension/Farm-Power-and-Machinery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.423077" vertical-offset="2275" max-vertical-offset="2856">
+          <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding>
+            <marker date="1539556042974" expanded="true" signature="623:808" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539556042974" expanded="true" signature="623:815" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539556042974" expanded="true" signature="1043:1263" placeholder="SELECT * fro..materials..." />
+            <marker date="1539556042974" expanded="true" signature="1043:1272" placeholder="SELECT * fro..materials..." />
+            <marker date="1539556042974" expanded="true" signature="1043:1274" placeholder="SELECT * fro..materials..." />
+            <marker date="1539556042974" expanded="true" signature="1512:1554" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539556042974" expanded="true" signature="2037:2112" placeholder="..." />
+            <marker date="1539556042974" expanded="false" signature="2382:2428" placeholder="..." />
+            <marker date="1539556042974" expanded="false" signature="2605:2622" placeholder="..." />
+            <marker date="1539556042974" expanded="false" signature="2725:2742" placeholder="..." />
+            <marker date="1539556042974" expanded="true" signature="2979:3047" placeholder="..." />
+            <marker date="1539556042974" expanded="false" signature="3033:3045" placeholder="..." />
+            <marker date="1539556042974" expanded="true" signature="3094:3151" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539556042974" expanded="true" signature="3352:3535" placeholder="..." />
+            <marker date="1539556042974" expanded="false" signature="3420:3432" placeholder="..." />
+            <marker date="1539556042974" expanded="false" signature="5207:5263" placeholder="..." />
+            <marker date="1539556042974" expanded="false" signature="5370:5408" placeholder="..." />
+            <marker date="1539556042974" expanded="true" signature="5703:5791" placeholder="INSERT INTO ..." />
+            <marker date="1539556042974" expanded="true" signature="6406:6578" placeholder="..." />
+            <marker date="1539556042974" expanded="true" signature="6969:7149" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Economics/Agricultural-Finance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="2856">
+          <caret line="25" column="247" selection-start-line="25" selection-start-column="247" selection-end-line="25" selection-end-column="247" />
+          <folding>
+            <marker date="1539559008299" expanded="true" signature="625:815" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539559008299" expanded="true" signature="625:837" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539559008299" expanded="true" signature="1072:1264" placeholder="SELECT * fro..materials..." />
+            <marker date="1539559008299" expanded="true" signature="1072:1321" placeholder="SELECT * fro..materials..." />
+            <marker date="1539559008299" expanded="true" signature="1570:1612" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539559008299" expanded="true" signature="2095:2170" placeholder="..." />
+            <marker date="1539559008299" expanded="false" signature="2440:2486" placeholder="..." />
+            <marker date="1539559008299" expanded="false" signature="2663:2680" placeholder="..." />
+            <marker date="1539559008299" expanded="false" signature="2783:2800" placeholder="..." />
+            <marker date="1539559008299" expanded="true" signature="3037:3105" placeholder="..." />
+            <marker date="1539559008299" expanded="false" signature="3091:3103" placeholder="..." />
+            <marker date="1539559008299" expanded="true" signature="3152:3209" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539559008299" expanded="true" signature="3410:3593" placeholder="..." />
+            <marker date="1539559008299" expanded="false" signature="3478:3490" placeholder="..." />
+            <marker date="1539559008299" expanded="false" signature="5265:5321" placeholder="..." />
+            <marker date="1539559008299" expanded="false" signature="5428:5466" placeholder="..." />
+            <marker date="1539559008299" expanded="true" signature="5761:5849" placeholder="INSERT INTO ..." />
+            <marker date="1539559008299" expanded="true" signature="6464:6636" placeholder="..." />
+            <marker date="1539559008299" expanded="true" signature="7027:7207" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Economics/Agricultural-Marketing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="2856">
+          <caret line="25" column="249" selection-start-line="25" selection-start-column="249" selection-end-line="25" selection-end-column="249" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <marker date="1539559008256" expanded="true" signature="627:841" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539559008256" expanded="true" signature="1076:1327" placeholder="SELECT * fro..materials..." />
+            <marker date="1539559008256" expanded="true" signature="1576:1618" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539559008256" expanded="true" signature="2101:2176" placeholder="..." />
+            <marker date="1539559008256" expanded="true" signature="2446:2492" placeholder="..." />
+            <marker date="1539559008256" expanded="true" signature="2669:2686" placeholder="..." />
+            <marker date="1539559008256" expanded="true" signature="2789:2806" placeholder="..." />
+            <marker date="1539559008256" expanded="true" signature="3043:3111" placeholder="..." />
+            <marker date="1539559008256" expanded="true" signature="3097:3109" placeholder="..." />
+            <marker date="1539559008256" expanded="true" signature="3158:3215" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539559008256" expanded="true" signature="3416:3599" placeholder="..." />
+            <marker date="1539559008256" expanded="true" signature="3484:3496" placeholder="..." />
+            <marker date="1539559008256" expanded="true" signature="5271:5327" placeholder="..." />
+            <marker date="1539559008256" expanded="true" signature="5434:5472" placeholder="..." />
+            <marker date="1539559008256" expanded="true" signature="5767:5855" placeholder="INSERT INTO ..." />
+            <marker date="1539559008256" expanded="true" signature="6470:6642" placeholder="..." />
+            <marker date="1539559008256" expanded="true" signature="7033:7213" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Economics/Agribusiness-Management.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.153846" vertical-offset="68" max-vertical-offset="2856">
+          <caret line="18" column="153" selection-start-line="0" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding>
+            <marker date="1539557456862" expanded="true" signature="628:839" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539557456862" expanded="true" signature="1074:1322" placeholder="SELECT * fro..materials..." />
+            <marker date="1539557456862" expanded="true" signature="1571:1613" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539557456862" expanded="true" signature="2096:2171" placeholder="..." />
+            <marker date="1539557456862" expanded="false" signature="2441:2487" placeholder="..." />
+            <marker date="1539557456862" expanded="false" signature="2664:2681" placeholder="..." />
+            <marker date="1539557456862" expanded="false" signature="2784:2801" placeholder="..." />
+            <marker date="1539557456862" expanded="true" signature="3038:3106" placeholder="..." />
+            <marker date="1539557456862" expanded="false" signature="3092:3104" placeholder="..." />
+            <marker date="1539557456862" expanded="true" signature="3153:3210" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539557456862" expanded="true" signature="3411:3594" placeholder="..." />
+            <marker date="1539557456862" expanded="false" signature="3479:3491" placeholder="..." />
+            <marker date="1539557456862" expanded="false" signature="5266:5322" placeholder="..." />
+            <marker date="1539557456862" expanded="false" signature="5429:5467" placeholder="..." />
+            <marker date="1539557456862" expanded="true" signature="5762:5850" placeholder="INSERT INTO ..." />
+            <marker date="1539557456862" expanded="true" signature="6465:6637" placeholder="..." />
+            <marker date="1539557456862" expanded="true" signature="7028:7208" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Economics/Agricultural-Production-Economics.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="2856">
+          <caret line="15" column="136" selection-start-line="0" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding>
+            <marker date="1539559008324" expanded="true" signature="637:827" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539559008324" expanded="true" signature="637:862" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539559008324" expanded="true" signature="1097:1301" placeholder="SELECT * fro..materials..." />
+            <marker date="1539559008324" expanded="true" signature="1097:1359" placeholder="SELECT * fro..materials..." />
+            <marker date="1539559008324" expanded="true" signature="1608:1650" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539559008324" expanded="true" signature="2133:2208" placeholder="..." />
+            <marker date="1539559008324" expanded="false" signature="2478:2524" placeholder="..." />
+            <marker date="1539559008324" expanded="false" signature="2701:2718" placeholder="..." />
+            <marker date="1539559008324" expanded="false" signature="2821:2838" placeholder="..." />
+            <marker date="1539559008324" expanded="true" signature="3075:3143" placeholder="..." />
+            <marker date="1539559008324" expanded="false" signature="3129:3141" placeholder="..." />
+            <marker date="1539559008324" expanded="true" signature="3190:3247" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539559008324" expanded="true" signature="3448:3631" placeholder="..." />
+            <marker date="1539559008324" expanded="false" signature="3516:3528" placeholder="..." />
+            <marker date="1539559008324" expanded="false" signature="5303:5359" placeholder="..." />
+            <marker date="1539559008324" expanded="false" signature="5466:5504" placeholder="..." />
+            <marker date="1539559008324" expanded="true" signature="5799:5887" placeholder="INSERT INTO ..." />
+            <marker date="1539559008324" expanded="true" signature="6502:6674" placeholder="..." />
+            <marker date="1539559008324" expanded="true" signature="7065:7245" placeholder="..." />
+            <marker date="1539559008324" expanded="true" signature="637:862" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539559008324" expanded="true" signature="1097:1359" placeholder="SELECT * fro..materials..." />
+            <marker date="1539559008324" expanded="true" signature="1608:1650" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539559008324" expanded="true" signature="3190:3247" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539559008324" expanded="true" signature="5799:5887" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Economics/Agricultural-Projects-Analysis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="2856">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <marker date="1539559008203" expanded="true" signature="634:824" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539559008203" expanded="true" signature="634:856" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539559008203" expanded="true" signature="1091:1295" placeholder="SELECT * fro..materials..." />
+            <marker date="1539559008203" expanded="true" signature="1091:1350" placeholder="SELECT * fro..materials..." />
+            <marker date="1539559008203" expanded="true" signature="1599:1641" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539559008203" expanded="true" signature="2124:2199" placeholder="..." />
+            <marker date="1539559008203" expanded="false" signature="2469:2515" placeholder="..." />
+            <marker date="1539559008203" expanded="false" signature="2692:2709" placeholder="..." />
+            <marker date="1539559008203" expanded="false" signature="2812:2829" placeholder="..." />
+            <marker date="1539559008203" expanded="true" signature="3066:3134" placeholder="..." />
+            <marker date="1539559008203" expanded="false" signature="3120:3132" placeholder="..." />
+            <marker date="1539559008203" expanded="true" signature="3181:3238" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539559008203" expanded="true" signature="3439:3622" placeholder="..." />
+            <marker date="1539559008203" expanded="false" signature="3507:3519" placeholder="..." />
+            <marker date="1539559008203" expanded="false" signature="5294:5350" placeholder="..." />
+            <marker date="1539559008203" expanded="false" signature="5457:5495" placeholder="..." />
+            <marker date="1539559008203" expanded="true" signature="5790:5878" placeholder="INSERT INTO ..." />
+            <marker date="1539559008203" expanded="true" signature="6493:6665" placeholder="..." />
+            <marker date="1539559008203" expanded="true" signature="7056:7236" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Economics/Agricultural-Policy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="2856">
+          <caret line="25" column="246" selection-start-line="0" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+          <folding>
+            <marker date="1539559008223" expanded="true" signature="624:814" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539559008223" expanded="true" signature="624:835" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539559008223" expanded="true" signature="1070:1262" placeholder="SELECT * fro..materials..." />
+            <marker date="1539559008223" expanded="true" signature="1070:1318" placeholder="SELECT * fro..materials..." />
+            <marker date="1539559008223" expanded="true" signature="1567:1609" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539559008223" expanded="true" signature="2092:2167" placeholder="..." />
+            <marker date="1539559008223" expanded="false" signature="2437:2483" placeholder="..." />
+            <marker date="1539559008223" expanded="false" signature="2660:2677" placeholder="..." />
+            <marker date="1539559008223" expanded="false" signature="2780:2797" placeholder="..." />
+            <marker date="1539559008223" expanded="true" signature="3034:3102" placeholder="..." />
+            <marker date="1539559008223" expanded="false" signature="3088:3100" placeholder="..." />
+            <marker date="1539559008223" expanded="true" signature="3149:3206" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539559008223" expanded="true" signature="3407:3590" placeholder="..." />
+            <marker date="1539559008223" expanded="false" signature="3475:3487" placeholder="..." />
+            <marker date="1539559008223" expanded="false" signature="5262:5318" placeholder="..." />
+            <marker date="1539559008223" expanded="false" signature="5425:5463" placeholder="..." />
+            <marker date="1539559008223" expanded="true" signature="5758:5846" placeholder="INSERT INTO ..." />
+            <marker date="1539559008223" expanded="true" signature="6461:6633" placeholder="..." />
+            <marker date="1539559008223" expanded="true" signature="7024:7204" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications/subjects/Agric.-Extension-and-Economics/Agricultural-Economics/Agricultural-Value-Chains.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41308412" vertical-offset="0" max-vertical-offset="2856">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <marker date="1539559008278" expanded="true" signature="630:847" placeholder="SELECT * FRO..materials..." />
+            <marker date="1539559008278" expanded="true" signature="1082:1336" placeholder="SELECT * fro..materials..." />
+            <marker date="1539559008278" expanded="true" signature="1585:1627" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539559008278" expanded="true" signature="2110:2185" placeholder="..." />
+            <marker date="1539559008278" expanded="true" signature="2455:2501" placeholder="..." />
+            <marker date="1539559008278" expanded="true" signature="2678:2695" placeholder="..." />
+            <marker date="1539559008278" expanded="true" signature="2798:2815" placeholder="..." />
+            <marker date="1539559008278" expanded="true" signature="3052:3120" placeholder="..." />
+            <marker date="1539559008278" expanded="true" signature="3106:3118" placeholder="..." />
+            <marker date="1539559008278" expanded="true" signature="3167:3224" placeholder="SELECT * FRO..pub_media..." />
+            <marker date="1539559008278" expanded="true" signature="3425:3608" placeholder="..." />
+            <marker date="1539559008278" expanded="true" signature="3493:3505" placeholder="..." />
+            <marker date="1539559008278" expanded="true" signature="5280:5336" placeholder="..." />
+            <marker date="1539559008278" expanded="true" signature="5443:5481" placeholder="..." />
+            <marker date="1539559008278" expanded="true" signature="5776:5864" placeholder="INSERT INTO ..." />
+            <marker date="1539559008278" expanded="true" signature="6479:6651" placeholder="..." />
+            <marker date="1539559008278" expanded="true" signature="7042:7222" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
